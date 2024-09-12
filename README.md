@@ -2,4 +2,4 @@
 Programmēšana 10-12
 h1>Sveiki visiem<h1>
 Sveiki visiem
-<img src="download.webp>
+<img src="download.jpg>
